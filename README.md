@@ -4,13 +4,14 @@ title: Hi, I am Div! 👋
 permalink: /
 ---
 
-<img align="left" width="100" height="125" src="assets/gitbook/images/dkhandelwal_profile.png">
+<img align="left" width="80" height="100" src="assets/gitbook/images/dkhandelwal_profile.png">
 
-A software engineer in fintech. \
-A value investing enthusiast. \
-A curious business analyst. \
+&nbsp;&nbsp;A software engineer in fintech. \
+&nbsp;&nbsp;A value investing enthusiast. \
+&nbsp;&nbsp;An inquisitive business analyst. 
+<br/><br/>
 
-Welcome to my personal blog and thought space!
+Welcome to my blog and thought space!
 
 📍 Currently based in London 🇬🇧, but I have lived in many [cities](https://www.google.com) in the past.
 
