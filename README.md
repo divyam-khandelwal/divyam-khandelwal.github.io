@@ -13,6 +13,6 @@ permalink: /
 
 Welcome to my blog and thought space!
 
-📍 Currently based in London 🇬🇧, but I have lived in many [cities](https://www.google.com) in the past.
+📍 Currently based in London 🇬🇧, but I have lived in many [cities](https://dkhandelwal.xyz/jekyll/2024-06-19-cities.html) in the past.
 
 ⚠️ *Views are solely my own and not advice.* 
